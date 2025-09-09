@@ -1,0 +1,9 @@
+// NOTE -> Procedure To Run The GUI MUSIC PLAYER Using MySQLConnector
+
+// Connection with Database is necessary and we need to use MySQLConnector Library for it
+
+//  Compile all files ---> 
+// javac -d build -cp "lib/mysql-connector-j-8.3.0.jar" src/*/*.java src/Main.java
+
+// # Run
+// java -cp "build:lib/mysql-connector-j-8.3.0.jar" Main
